@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <!-- Background circle -->
+  <circle cx="90" cy="90" r="88" fill="#c85f3e" stroke="#fff" stroke-width="2"/>
+  
+  <!-- Stylized furniture/home shape - represents LIVELI -->
+  <!-- Sofa/couch silhouette -->
+  <g fill="#fff">
+    <!-- Left armrest -->
+    <rect x="30" y="70" width="15" height="50" rx="3"/>
+    <!-- Right armrest -->
+    <rect x="135" y="70" width="15" height="50" rx="3"/>
+    <!-- Seat -->
+    <rect x="45" y="85" width="90" height="35" rx="3"/>
+    <!-- Backrest -->
+    <rect x="40" y="55" width="100" height="18" rx="3"/>
+  </g>
+</svg>

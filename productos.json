@@ -1,0 +1,645 @@
+﻿{
+    "categorias":  {
+                       "muebles":  [
+                                       {
+                                           "id":  "MUE-001",
+                                           "nombre":  "Producto Mueble 01",
+                                           "subcategoria":  "Sofas",
+                                           "imagen":  "img/muebles/D8234.jpg",
+                                           "descripcion":  "Sofa de perfil moderno para espacios amplios y comodos.",
+                                           "colores":  [
+                                                           "#ece9e2",
+                                                           "#d8d2c8",
+                                                           "#6f6f71"
+                                                       ],
+                                           "tamanos":  [
+                                                           "2 Plazas",
+                                                           "3 Plazas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-002",
+                                           "nombre":  "Producto Mueble 02",
+                                           "subcategoria":  "Sofas",
+                                           "imagen":  "img/muebles/image243.jpeg",
+                                           "descripcion":  "Sofa elegante con tapizado resistente para uso diario.",
+                                           "colores":  [
+                                                           "#f1eee7",
+                                                           "#d1cabf",
+                                                           "#5f5a55"
+                                                       ],
+                                           "tamanos":  [
+                                                           "2 Plazas",
+                                                           "Lounge"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-003",
+                                           "nombre":  "Producto Mueble 03",
+                                           "subcategoria":  "Sofas",
+                                           "imagen":  "img/muebles/image246.jpeg",
+                                           "descripcion":  "Diseno contemporaneo con lineas limpias y gran confort.",
+                                           "colores":  [
+                                                           "#e9e4dc",
+                                                           "#c6b8a6",
+                                                           "#54473c"
+                                                       ],
+                                           "tamanos":  [
+                                                           "3 Plazas",
+                                                           "4 Plazas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-004",
+                                           "nombre":  "Producto Mueble 04",
+                                           "subcategoria":  "Sofas",
+                                           "imagen":  "img/muebles/image247.jpeg",
+                                           "descripcion":  "Asiento profundo para salas modernas y acogedoras.",
+                                           "colores":  [
+                                                           "#efece6",
+                                                           "#d7cfc2",
+                                                           "#70675f"
+                                                       ],
+                                           "tamanos":  [
+                                                           "2 Plazas",
+                                                           "3 Plazas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-005",
+                                           "nombre":  "Producto Mueble 05",
+                                           "subcategoria":  "Sofas",
+                                           "imagen":  "img/muebles/image251.jpeg",
+                                           "descripcion":  "Pieza central de sala con estructura firme y acabados suaves.",
+                                           "colores":  [
+                                                           "#ece6dd",
+                                                           "#cdbfaa",
+                                                           "#665545"
+                                                       ],
+                                           "tamanos":  [
+                                                           "3 Plazas",
+                                                           "Chaise Longue"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-006",
+                                           "nombre":  "Producto Mueble 06",
+                                           "subcategoria":  "Mesas",
+                                           "imagen":  "img/muebles/image252.jpeg",
+                                           "descripcion":  "Mesa de centro ideal para composiciones de sala elegantes.",
+                                           "colores":  [
+                                                           "#f2eee6",
+                                                           "#d7c6af",
+                                                           "#6a5743"
+                                                       ],
+                                           "tamanos":  [
+                                                           "120 cm",
+                                                           "140 cm"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-007",
+                                           "nombre":  "Producto Mueble 07",
+                                           "subcategoria":  "Mesas",
+                                           "imagen":  "img/muebles/image253.jpeg",
+                                           "descripcion":  "Mesa con presencia minimalista y base estable.",
+                                           "colores":  [
+                                                           "#efe9de",
+                                                           "#d9ccba",
+                                                           "#7d654f"
+                                                       ],
+                                           "tamanos":  [
+                                                           "4 Personas",
+                                                           "6 Personas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-008",
+                                           "nombre":  "Producto Mueble 08",
+                                           "subcategoria":  "Mesas",
+                                           "imagen":  "img/muebles/image254.jpeg",
+                                           "descripcion":  "Diseno calido para comedor o area social de hogar.",
+                                           "colores":  [
+                                                           "#f0ece5",
+                                                           "#c8b9a5",
+                                                           "#8a7561"
+                                                       ],
+                                           "tamanos":  [
+                                                           "140 cm",
+                                                           "160 cm"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-009",
+                                           "nombre":  "Producto Mueble 09",
+                                           "subcategoria":  "Mesas",
+                                           "imagen":  "img/muebles/image258.jpeg",
+                                           "descripcion":  "Superficie robusta para reuniones familiares y uso continuo.",
+                                           "colores":  [
+                                                           "#ebe5da",
+                                                           "#cab9a2",
+                                                           "#6a5b4a"
+                                                       ],
+                                           "tamanos":  [
+                                                           "6 Personas",
+                                                           "8 Personas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-010",
+                                           "nombre":  "Producto Mueble 10",
+                                           "subcategoria":  "Mesas",
+                                           "imagen":  "img/muebles/image267.jpeg",
+                                           "descripcion":  "Acabado sobrio y versatil para estilos modernos.",
+                                           "colores":  [
+                                                           "#eee8de",
+                                                           "#d2c2af",
+                                                           "#776656"
+                                                       ],
+                                           "tamanos":  [
+                                                           "120 cm",
+                                                           "150 cm"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-011",
+                                           "nombre":  "Producto Mueble 11",
+                                           "subcategoria":  "Muebles de sala",
+                                           "imagen":  "img/muebles/image271.jpeg",
+                                           "descripcion":  "Set modular para salas con distribucion flexible.",
+                                           "colores":  [
+                                                           "#ebe6de",
+                                                           "#c9bfaf",
+                                                           "#5a5d60"
+                                                       ],
+                                           "tamanos":  [
+                                                           "Compacto",
+                                                           "Completo"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-012",
+                                           "nombre":  "Producto Mueble 12",
+                                           "subcategoria":  "Muebles de sala",
+                                           "imagen":  "img/muebles/image272.jpeg",
+                                           "descripcion":  "Composicion moderna de sala con piezas funcionales.",
+                                           "colores":  [
+                                                           "#f2f0ea",
+                                                           "#d4cec2",
+                                                           "#7b7368"
+                                                       ],
+                                           "tamanos":  [
+                                                           "3 Piezas",
+                                                           "5 Piezas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-013",
+                                           "nombre":  "Producto Mueble 13",
+                                           "subcategoria":  "Muebles de sala",
+                                           "imagen":  "img/muebles/image273.jpeg",
+                                           "descripcion":  "Conjunto de sala para espacios amplios y contemporaneos.",
+                                           "colores":  [
+                                                           "#ece8df",
+                                                           "#cdbca8",
+                                                           "#665443"
+                                                       ],
+                                           "tamanos":  [
+                                                           "Estandar",
+                                                           "Grande"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-014",
+                                           "nombre":  "Producto Mueble 14",
+                                           "subcategoria":  "Muebles de sala",
+                                           "imagen":  "img/muebles/image279.jpeg",
+                                           "descripcion":  "Muebles de sala con lineas rectas y estilo premium.",
+                                           "colores":  [
+                                                           "#efe9e0",
+                                                           "#cbbca9",
+                                                           "#5f5248"
+                                                       ],
+                                           "tamanos":  [
+                                                           "4 Piezas",
+                                                           "6 Piezas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-015",
+                                           "nombre":  "Producto Mueble 15",
+                                           "subcategoria":  "Muebles de sala",
+                                           "imagen":  "img/muebles/image287.jpeg",
+                                           "descripcion":  "Propuesta elegante para zona de estar principal.",
+                                           "colores":  [
+                                                           "#f0ece4",
+                                                           "#d1c5b6",
+                                                           "#746557"
+                                                       ],
+                                           "tamanos":  [
+                                                           "Compacto",
+                                                           "Familiar"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-016",
+                                           "nombre":  "Producto Mueble 16",
+                                           "subcategoria":  "Dormitorio",
+                                           "imagen":  "img/muebles/image288.jpeg",
+                                           "descripcion":  "Cama de estilo moderno para ambientes de descanso.",
+                                           "colores":  [
+                                                           "#ebe5da",
+                                                           "#c9b8a0",
+                                                           "#5a4b3d"
+                                                       ],
+                                           "tamanos":  [
+                                                           "Queen",
+                                                           "King"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-017",
+                                           "nombre":  "Producto Mueble 17",
+                                           "subcategoria":  "Dormitorio",
+                                           "imagen":  "img/muebles/image289.jpeg",
+                                           "descripcion":  "Cabecera amplia y estructura reforzada para uso diario.",
+                                           "colores":  [
+                                                           "#efe8dc",
+                                                           "#d0c2b1",
+                                                           "#6b5a4b"
+                                                       ],
+                                           "tamanos":  [
+                                                           "Matrimonial",
+                                                           "Queen"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-018",
+                                           "nombre":  "Producto Mueble 18",
+                                           "subcategoria":  "Dormitorio",
+                                           "imagen":  "img/muebles/image290.jpeg",
+                                           "descripcion":  "Buro funcional para almacenamiento y orden en habitacion.",
+                                           "colores":  [
+                                                           "#f1ece3",
+                                                           "#d4c8b9",
+                                                           "#7d6a59"
+                                                       ],
+                                           "tamanos":  [
+                                                           "60 cm",
+                                                           "80 cm"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-019",
+                                           "nombre":  "Producto Mueble 19",
+                                           "subcategoria":  "Dormitorio",
+                                           "imagen":  "img/muebles/image292.jpeg",
+                                           "descripcion":  "Comoda de diseno limpio para guardar esenciales.",
+                                           "colores":  [
+                                                           "#ece7dd",
+                                                           "#cdbfae",
+                                                           "#695949"
+                                                       ],
+                                           "tamanos":  [
+                                                           "4 Gavetas",
+                                                           "6 Gavetas"
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "MUE-020",
+                                           "nombre":  "Producto Mueble 20",
+                                           "subcategoria":  "Dormitorio",
+                                           "imagen":  "img/muebles/image294.jpeg",
+                                           "descripcion":  "Armario amplio con acabado natural y estilo atemporal.",
+                                           "colores":  [
+                                                           "#f2eee6",
+                                                           "#d9cbbb",
+                                                           "#6f5e4d"
+                                                       ],
+                                           "tamanos":  [
+                                                           "2 Puertas",
+                                                           "3 Puertas"
+                                                       ]
+                                       }
+                                   ],
+                       "decoracion":  [
+                                          {
+                                              "id":  "DEC-001",
+                                              "nombre":  "Producto Decoracion 01",
+                                              "subcategoria":  "Pinturas",
+                                              "imagen":  "img/decoraciones/image8.jpeg",
+                                              "descripcion":  "Pintura decorativa para salas modernas y espacios creativos.",
+                                              "colores":  [
+                                                              "#ece5db",
+                                                              "#d2cabf",
+                                                              "#9b8a78"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequeno",
+                                                              "Mediano",
+                                                              "Grande"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-002",
+                                              "nombre":  "Producto Decoracion 02",
+                                              "subcategoria":  "Pinturas",
+                                              "imagen":  "img/decoraciones/image9.jpeg",
+                                              "descripcion":  "Composicion visual de alto contraste para acento mural.",
+                                              "colores":  [
+                                                              "#f1ece2",
+                                                              "#dacbb5",
+                                                              "#8b735f"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Mediano",
+                                                              "Grande"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-003",
+                                              "nombre":  "Producto Decoracion 03",
+                                              "subcategoria":  "Pinturas",
+                                              "imagen":  "img/decoraciones/image10.jpeg",
+                                              "descripcion":  "Pieza de arte para complementar espacios con personalidad.",
+                                              "colores":  [
+                                                              "#efebe3",
+                                                              "#d9c8b2",
+                                                              "#5b4b3b"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequeno",
+                                                              "Grande"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-004",
+                                              "nombre":  "Producto Decoracion 04",
+                                              "subcategoria":  "Pinturas",
+                                              "imagen":  "img/decoraciones/image11.jpeg",
+                                              "descripcion":  "Obra de pared para ambientes sobrios y elegantes.",
+                                              "colores":  [
+                                                              "#f3eee6",
+                                                              "#d9cfbf",
+                                                              "#8a7a68"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Mediano",
+                                                              "Grande"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-005",
+                                              "nombre":  "Producto Decoracion 05",
+                                              "subcategoria":  "Pinturas",
+                                              "imagen":  "img/decoraciones/image15.jpeg",
+                                              "descripcion":  "Textura artistica para elevar la identidad del espacio.",
+                                              "colores":  [
+                                                              "#eee8dd",
+                                                              "#cfc2af",
+                                                              "#736453"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequeno",
+                                                              "Mediano"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-006",
+                                              "nombre":  "Producto Decoracion 06",
+                                              "subcategoria":  "Esculturas",
+                                              "imagen":  "img/decoraciones/image19.jpeg",
+                                              "descripcion":  "Escultura organica para mesas auxiliares y repisas.",
+                                              "colores":  [
+                                                              "#f1ece4",
+                                                              "#d4c7b7",
+                                                              "#88725f"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Unico"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-007",
+                                              "nombre":  "Producto Decoracion 07",
+                                              "subcategoria":  "Esculturas",
+                                              "imagen":  "img/decoraciones/image25.jpeg",
+                                              "descripcion":  "Volumen de acento para composiciones minimalistas.",
+                                              "colores":  [
+                                                              "#f0ece5",
+                                                              "#d5c8b8",
+                                                              "#7d6653"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Unico"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-008",
+                                              "nombre":  "Producto Decoracion 08",
+                                              "subcategoria":  "Esculturas",
+                                              "imagen":  "img/decoraciones/image26.jpeg",
+                                              "descripcion":  "Pieza escultorica para recibidor o sala principal.",
+                                              "colores":  [
+                                                              "#ece5d9",
+                                                              "#cabaa5",
+                                                              "#69523e"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequeno",
+                                                              "Mediano"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-009",
+                                              "nombre":  "Producto Decoracion 09",
+                                              "subcategoria":  "Esculturas",
+                                              "imagen":  "img/decoraciones/image28.jpeg",
+                                              "descripcion":  "Figura de estilo moderno para estanterias abiertas.",
+                                              "colores":  [
+                                                              "#f2eee7",
+                                                              "#d6cbbc",
+                                                              "#856e58"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Unico"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-010",
+                                              "nombre":  "Producto Decoracion 10",
+                                              "subcategoria":  "Esculturas",
+                                              "imagen":  "img/decoraciones/image31.jpeg",
+                                              "descripcion":  "Acento artistico para balancear la decoracion interior.",
+                                              "colores":  [
+                                                              "#efe9df",
+                                                              "#d2c4b1",
+                                                              "#705d4b"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Unico"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-011",
+                                              "nombre":  "Producto Decoracion 11",
+                                              "subcategoria":  "Espejos",
+                                              "imagen":  "img/decoraciones/image47.jpeg",
+                                              "descripcion":  "Espejo decorativo para ampliar visualmente ambientes.",
+                                              "colores":  [
+                                                              "#f0ece5",
+                                                              "#d5c8b8",
+                                                              "#7d6653"
+                                                          ],
+                                              "tamanos":  [
+                                                              "80 cm",
+                                                              "100 cm"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-012",
+                                              "nombre":  "Producto Decoracion 12",
+                                              "subcategoria":  "Espejos",
+                                              "imagen":  "img/decoraciones/image57.jpeg",
+                                              "descripcion":  "Espejo de marco fino para espacios modernos.",
+                                              "colores":  [
+                                                              "#ece5d9",
+                                                              "#cabaa5",
+                                                              "#69523e"
+                                                          ],
+                                              "tamanos":  [
+                                                              "90 cm",
+                                                              "120 cm"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-013",
+                                              "nombre":  "Producto Decoracion 13",
+                                              "subcategoria":  "Espejos",
+                                              "imagen":  "img/decoraciones/image64.jpeg",
+                                              "descripcion":  "Diseno elegante para pasillos, sala o dormitorio.",
+                                              "colores":  [
+                                                              "#f2eee7",
+                                                              "#d6cbbc",
+                                                              "#856e58"
+                                                          ],
+                                              "tamanos":  [
+                                                              "80 cm",
+                                                              "110 cm"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-014",
+                                              "nombre":  "Producto Decoracion 14",
+                                              "subcategoria":  "Espejos",
+                                              "imagen":  "img/decoraciones/image67.jpeg",
+                                              "descripcion":  "Marco decorativo para interiores contemporaneos.",
+                                              "colores":  [
+                                                              "#f1ece3",
+                                                              "#d0c1ad",
+                                                              "#6f5c4a"
+                                                          ],
+                                              "tamanos":  [
+                                                              "100 cm",
+                                                              "130 cm"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-015",
+                                              "nombre":  "Producto Decoracion 15",
+                                              "subcategoria":  "Espejos",
+                                              "imagen":  "img/decoraciones/image96.jpeg",
+                                              "descripcion":  "Pieza reflectante para aportar luz y profundidad.",
+                                              "colores":  [
+                                                              "#ece6dc",
+                                                              "#cdbdaa",
+                                                              "#6d5a47"
+                                                          ],
+                                              "tamanos":  [
+                                                              "70 cm",
+                                                              "100 cm"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-016",
+                                              "nombre":  "Producto Decoracion 16",
+                                              "subcategoria":  "Iluminacion",
+                                              "imagen":  "img/decoraciones/image145.jpeg",
+                                              "descripcion":  "Lampara decorativa para crear ambientes calidos.",
+                                              "colores":  [
+                                                              "#f3efe8",
+                                                              "#d8cdbd",
+                                                              "#8a755f"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequena",
+                                                              "Mediana"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-017",
+                                              "nombre":  "Producto Decoracion 17",
+                                              "subcategoria":  "Iluminacion",
+                                              "imagen":  "img/decoraciones/image176.jpeg",
+                                              "descripcion":  "Iluminacion puntual para rincones de lectura.",
+                                              "colores":  [
+                                                              "#efe9dd",
+                                                              "#d1c1ac",
+                                                              "#715d4a"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Mesa",
+                                                              "Piso"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-018",
+                                              "nombre":  "Producto Decoracion 18",
+                                              "subcategoria":  "Iluminacion",
+                                              "imagen":  "img/decoraciones/image182.jpeg",
+                                              "descripcion":  "Diseno sobrio para complementar salas modernas.",
+                                              "colores":  [
+                                                              "#f0ece4",
+                                                              "#d4c7b6",
+                                                              "#75614f"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Techo",
+                                                              "Mesa"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-019",
+                                              "nombre":  "Producto Decoracion 19",
+                                              "subcategoria":  "Iluminacion",
+                                              "imagen":  "img/decoraciones/image200.jpeg",
+                                              "descripcion":  "Pieza luminica de acento para decoracion premium.",
+                                              "colores":  [
+                                                              "#eee8dc",
+                                                              "#ccbaa4",
+                                                              "#6f5842"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Pequena",
+                                                              "Grande"
+                                                          ]
+                                          },
+                                          {
+                                              "id":  "DEC-020",
+                                              "nombre":  "Producto Decoracion 20",
+                                              "subcategoria":  "Iluminacion",
+                                              "imagen":  "img/decoraciones/image201.jpeg",
+                                              "descripcion":  "Lampara de presencia elegante para espacios amplios.",
+                                              "colores":  [
+                                                              "#f2ede4",
+                                                              "#d6c8b6",
+                                                              "#7a6652"
+                                                          ],
+                                              "tamanos":  [
+                                                              "Mesa",
+                                                              "Colgante"
+                                                          ]
+                                          }
+                                      ]
+                   }
+}
